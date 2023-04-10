@@ -488,7 +488,7 @@ named here use Mojang mappings regardless of the server.
 
 ### allow-piston-duplication
 
-- **default**: `false`
+- **default**: `true`
 - **description**: Whether to allow duplication of TNT, carpets, and rails. This does not control
   sand duplication.
 
